@@ -1,9 +1,9 @@
-Exercise 2
-[] README.md Draft
+Exercise 2  
+[] README.md Draft  
 Reyes, Arianne Marie R.  
-BS Computer science
-Live Website Link: https://cmsc100-laboratory.github.io/02-my-github-page-ranger-09/
-Steps on how to create GitHub page:
+BS Computer science  
+Live Website Link: https://cmsc100-laboratory.github.io/02-my-github-page-ranger-09/  
+Steps on how to create GitHub page:  
 
 1. Clone your repository
 2. Create an html file then push it into your repository.
