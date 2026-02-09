@@ -183,6 +183,11 @@ header .fa-bars{
     flex: 1 1 25rem
 }
 
+.skills-container .icons:hover{
+    background:rgba(0,0,0,.1);
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, 0.5);
+}
+
 .skills-container .icons img{
     height:5rem;
     margin-right: 2rem;
@@ -199,7 +204,9 @@ header .fa-bars{
     font-size: 1.3rem;
 }
 
-
+.skills-container .icons span:hover{
+    color:#000;
+}
 
 
 
