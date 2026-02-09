@@ -208,7 +208,46 @@ header .fa-bars{
     color:#000;
 }
 
+.projects .row{
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+    padding: 2rem 0;
+    padding-bottom: 3rem;
+}
 
+.projects .row .picture-container{
+    flex: 1 1 40rem;
+    position: relative;
+}
+
+.projects .row .picture-container img{
+    width:100%;
+    border: 0.5rem solid#fff;
+    color:#000;
+    border-radius: .5rem;
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, 0.5);
+    height: 100%;
+    object-fit:cover ;
+}
+
+.projects .row .content{
+    flex: 1 1 40rem;
+}
+
+.projects .row .content h3{
+    font-size: 3rem;
+    color:rgb(253, 0, 160);
+}
+
+.projects .row .content p{
+    font-size: 1.5rem;
+    color:#333;
+    padding: 5rem 0;
+    padding-top: 1rem;
+    line-height: 1.5;
+}
 
 
 
