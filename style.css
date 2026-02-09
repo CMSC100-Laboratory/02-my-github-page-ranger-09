@@ -1,4 +1,5 @@
 
+/*main html style*/
 :root{
     --black: #000;
 }
@@ -24,6 +25,7 @@ section{
     padding: 2rem 9%;
 }
 
+/*button style*/
 .btn{
     display: inline-block;
     margin-top: 1rem;
@@ -39,6 +41,7 @@ section{
     background-color: rgb(253, 0, 160) ;
 }
 
+/*heading style*/
 .heading{
     text-align: center;
     font-size: 4rem;
@@ -52,6 +55,7 @@ section{
     color:rgb(253, 0, 160);
 }
 
+/*header and navbar style*/
 header{
     position: fixed;
     top: 0; left:0; right:0;
@@ -99,6 +103,7 @@ header .fa-bars{
     display:none;
 }
 
+/*home section style*/
 .home {
     display: flex;
     align-items: center;
@@ -125,6 +130,7 @@ header .fa-bars{
     line-height: 1.5;
 }
 
+/*about section style*/
 .about .row{
     display: flex;
     align-items: center;
@@ -172,6 +178,7 @@ header .fa-bars{
     color:rgb(253, 0, 160);
 }
 
+/*skills section style*/
 .skills-container{
     background:url(../images/skills-bg.jpg) no-repeat;
     gap:1.5rem;
@@ -221,6 +228,7 @@ header .fa-bars{
     color:#000;
 }
 
+/*projects section style*/
 .projects .row{
     display: flex;
     align-items: center;
@@ -262,6 +270,7 @@ header .fa-bars{
     line-height: 1.5;
 }
 
+/*footer style*/
 .footer{
     background:#000;
 }
