@@ -39,24 +39,13 @@ section{
     background-color: rgb(253, 0, 160) ;
 }
 
-#about-btn{
-    background:#fff;
-    color:black;
-}
-
-#about-btn:hover{
-    background-color: rgb(253, 0, 160) ;
-    color:#fff;
-}
-
-
 .heading{
     text-align: center;
     font-size: 4rem;
     color: #000;
     padding: 1rem;
     margin: 2rem 0;
-    background: rgba(255, 255, 255);
+    background: rgba(255, 51, 153, 0.05);
 }
 
 .heading span{
@@ -135,10 +124,6 @@ header .fa-bars{
     line-height: 1.5;
 }
 
-.about{
-    background-color:#000;
-}
-
 .about .row{
     display: flex;
     align-items: center;
@@ -156,9 +141,9 @@ header .fa-bars{
 .about .row .picture-container img{
     width:100%;
     border: 0.5rem solid#fff;
-    color:#fff;
+    color:#000;
     border-radius: .5rem;
-    box-shadow: 0 .5rem 1rem rgba(255, 255, 255, 0.625);
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, 0.5);
     height: 100%;
     object-fit:cover ;
 }
@@ -169,12 +154,12 @@ header .fa-bars{
 
 .about .row .content h3{
     font-size: 3rem;
-    color:#fff;
+    color:#000;
 }
 
 .about .row .content p{
     font-size: 1.5rem;
-    color:#fff;
+    color:#333;
     padding: 5rem 0;
     padding-top: 1rem;
     line-height: 1.5;
