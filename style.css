@@ -108,7 +108,7 @@ header .fa-bars{
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background:url(../images/home-bg.jpg) no-repeat;
+    background:url(images/home-bg.jpg) no-repeat;
     background-size: cover;
     background-position:center;
 }
@@ -180,7 +180,7 @@ header .fa-bars{
 
 /*skills section style*/
 .skills-container{
-    background:url(../images/skills-bg.jpg) no-repeat;
+    background:url(images/skills-bg.jpg) no-repeat;
     gap:1.5rem;
     padding-top: 5rem;
     padding-bottom: 5rem;
