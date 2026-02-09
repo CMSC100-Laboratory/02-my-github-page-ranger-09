@@ -19,5 +19,9 @@ Knew how to usae flexbox and other html and css features
 
 References:
 
+https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_link_mailto
+
+https://www.footer.design/sites/brethren-design-co
+
 Gdocs File:
 https://docs.google.com/document/d/1Bw5JGHSih47UFc5ACDNbh26zCTR-ksN3CHZtoM3g-2Q/edit?usp=sharing
